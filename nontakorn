@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+  <meta charset="UTF-8">
+  <title>Nut | Creative Thinker & Writer</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="projects.html">Projects</a>
+  <a href="insights.html">Insights</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section class="hero">
+  <img src="assets/images/profile.jpg" alt="Nut Portfolio Photo" class="profile-img">
+
+  <h1>Nontagorn Nantapat</h1>
+  <p class="subtitle">Creative Thinker & Writer<br>AI & Philosophy Learner</p>
+
+  <p class="intro">
+    นักคิดและนักเขียนที่สนใจปรัชญา เทคโนโลยี และการใช้ AI  
+    เพื่อพัฒนาความคิดและชีวิตอย่างมีความหมาย
+  </p>
+
+  <p class="intro en">
+    A creative thinker and writer interested in philosophy, technology,  
+    and using AI to enhance human understanding and meaningful living.
+  </p>
+</section>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About | Nut</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="projects.html">Projects</a>
+  <a href="insights.html">Insights</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section class="content">
+  <h2>About Me</h2>
+
+  <p>
+    I am a learner who enjoys deep thinking, writing, and questioning ideas
+    about life, philosophy, and technology. I believe thinking is a skill
+    that can be trained through reflection and practice.
+  </p>
+
+  <h3>Hard Skills</h3>
+  <ul>
+    <li>Prompt Engineering (AI)</li>
+    <li>Creative Writing & Idea Generation</li>
+    <li>AI Tools Utilization (ChatGPT, DeepSeek)</li>
+    <li>English Communication (Intermediate)</li>
+  </ul>
+
+  <h3>Soft Skills</h3>
+  <ul>
+    <li>Active Listening</li>
+    <li>Emotional Control</li>
+    <li>Adaptability</li>
+    <li>Open-minded Thinking</li>
+  </ul>
+</section>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Projects | Nut</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="projects.html">Projects</a>
+  <a href="insights.html">Insights</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section class="content">
+  <h2>Projects</h2>
+
+  <h3>Writing on Life, Philosophy & Technology</h3>
+  <p>
+    Short articles and idea notes exploring life perspectives,
+    philosophical thinking, and the role of technology in modern society.
+  </p>
+
+  <h3>History & Solopreneur Content</h3>
+  <p>
+    Educational content combining historical insights with business
+    and solopreneur ideas for modern creators.
+  </p>
+</section>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Insights | Nut</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="projects.html">Projects</a>
+  <a href="insights.html">Insights</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section class="content">
+  <h2>Insights & Inspiration</h2>
+
+  <p>
+    I enjoy thinking deeply, questioning assumptions, and learning
+    through experience. Inspired by Socrates and my father, I believe
+    meaningful questions lead to meaningful lives.
+  </p>
+
+</section>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact | Nut</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="projects.html">Projects</a>
+  <a href="insights.html">Insights</a>
+  <a href="contact.html">Contact</a>
+</nav>
+
+<section class="content">
+  <h2>Contact & Vision</h2>
+
+  <p>Email: <a href="mailto:nutnexo12@gmail.com">nutnexo12@gmail.com</a></p>
+  <p>Medium / Instagram</p>
+
+  <p>
+    Short-term: Design life-changing prompts and develop critical thinking
+    through real projects.
+  </p>
+
+  <p>
+    Long-term: Become a solopreneur combining creativity, AI, and philosophy.
+  </p>
+</section>
+
+</body>
+</html>
+body {
+  font-family: 'Georgia', serif;
+  background-color: #f7f5f2;
+  color: #2b2b2b;
+  margin: 0;
+}
+
+.nav {
+  padding: 20px;
+  text-align: center;
+}
+
+.nav a {
+  margin: 0 15px;
+  text-decoration: none;
+  color: #2b2b2b;
+  font-weight: 500;
+}
+
+.hero {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.profile-img {
+  width: 180px;
+  border-radius: 6px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 32px;
+  margin-bottom: 10px;
+}
+
+.subtitle {
+  font-size: 18px;
+  color: #555;
+}
+
+.intro {
+  max-width: 600px;
+  margin: 20px auto;
+  line-height: 1.6;
+}
+
+.en {
+  font-style: italic;
+  color: #444;
+}
+
+.content {
+  max-width: 800px;
+  margin: auto;
+  padding: 40px 20px;
+}
+
+ul {
+  line-height: 1.8;
+}
